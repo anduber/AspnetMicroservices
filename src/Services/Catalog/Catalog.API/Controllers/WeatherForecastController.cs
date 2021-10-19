@@ -35,5 +35,6 @@ namespace Catalog.API.Controllers
             })
             .ToArray();
         }
+
     }
 }
